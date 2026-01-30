@@ -7,7 +7,13 @@
       font-family: Arial;
       background: #dfe6e9;
     }
-
+    .login {
+      width: 300px;
+      background: white;
+      padding: 20px;
+      margin: 120px auto;
+      border-radius: 8px;
+    }
     input {
       width: 100%;
       padding: 10px;
